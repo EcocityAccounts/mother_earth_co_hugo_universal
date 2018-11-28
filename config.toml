@@ -1,5 +1,5 @@
 baseurl = "https://example.org"
-title = "Universal"
+title = "Mother Earth and Co."
 theme = "hugo-universal-theme"
 # themesDir = "hugo-universal-theme"
 languageCode = "en-us"
@@ -43,32 +43,32 @@ paginate = 10
 [[menu.topbar]]
     weight = 1
     name = "GitHub"
-    url = "https://github.com/devcows/hugo-universal-theme"
+    url = "https://github.com/SustainableCommunityDevelopmentHub/mother_earth_co_hugo_universal"
     pre = "<i class='fa fa-2x fa-github'></i>"
 
 [[menu.topbar]]
     weight = 2
     name = "Facebook"
-    url = "http://facebook.com"
+    url = "http://facebook.com/motherearthandco"
     pre = "<i class='fa fa-2x fa-facebook'></i>"
 
 [[menu.topbar]]
     weight = 3
     name = "Twitter"
-    url = "http://twitter.com"
+    url = "http://twitter.com/motherearthandco"
     pre = "<i class='fa fa-2x fa-twitter'></i>"
 
 [[menu.topbar]]
     weight = 4
     name = "Email"
-    url = "mailto:your@email.com"
+    url = "mailto:80e305@gmail.com"
     pre = "<i class='fa fa-2x fa-envelope'></i>"
 
 [params]
     viewMorePostLink = "/blog/"
-    author = "DevCows"
-    defaultKeywords = ["devows", "hugo", "go"]
-    defaultDescription = "Site template made by devcows using hugo"
+    author = "Mother Earth and Co."
+    defaultKeywords = ["Mother Earth", "Colorado", "Natural Living"]
+    defaultDescription = "Natural Healing and awareness"
 
     # Google Maps API key (if not set will default to not passing a key.)
     googleMapsApiKey = "AIzaSyCFhtWLJcE30xOAjcbSFi-0fnoVmQZPb1Y"
